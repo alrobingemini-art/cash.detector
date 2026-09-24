@@ -1,0 +1,2 @@
+# cash.detector
+Cash Detector
